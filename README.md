@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu é Renan.
+Meu nome é Renan.
 
 Estou estudando na Alura.
 
